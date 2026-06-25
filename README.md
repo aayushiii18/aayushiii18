@@ -1,7 +1,7 @@
 <h1 align="center">Aayushi Gupta</h1>
 
 <p align="center">
-AI/ML Enthusiast • Industrial Internet of Things (IIoT) Student • Open Source Contributor
+AI/ML Enthusiast • Internet of Things (IoT) Student • Open Source Contributor
 </p>
 
 <p align="center">
